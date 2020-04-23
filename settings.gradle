@@ -1,0 +1,3 @@
+rootProject.name = 'anatomy-lettuce'
+include 'lettuce-started'
+
